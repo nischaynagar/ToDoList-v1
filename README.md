@@ -1,2 +1,2 @@
 # ToDoList-v1
-This a simple TODO List created from NodeJs and MongoDB.
+This a simple ToDo List created from NodeJs and MongoDB.

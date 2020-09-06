@@ -4,6 +4,6 @@ This a simple ToDo List created from NodeJs and MongoDB.
 to run this program.
 
 ```
-npm i
-node app.js
+*npm i*
+*node app.js*
 ```
